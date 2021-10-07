@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "159311610062",
+    "project_id": "democodemagic",
+    "storage_bucket": "democodemagic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159311610062:android:d63c3a4240fa13b6aa909f",
+        "android_client_info": {
+          "package_name": "com.example.democodemagic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159311610062-89vshkhbf5vq71cau8apofgof7ag8gqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-JCiSzkuL5NHGpa3MCU1ZRKIy_NqnQow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159311610062-89vshkhbf5vq71cau8apofgof7ag8gqs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159311610062-001ncmqh9rbi0jrngqih7lravmiik86q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.democodemagic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
